@@ -11,9 +11,6 @@ khách vãng lai:
 - đặt lịch hẹn
 - đặt câu hỏi tư vấn
 
-Người dùng:
-- đăng ký các dịch vụ điều trị hiếm muộn
-- chỉ dịnh bác sĩ điều trị hiếm muộn.
 
 
 Bác sĩ:
